@@ -15,7 +15,7 @@
 
 Go to RStudio and open
 
-    ~/wur_Rome2FAO/forestChangeModels.R
+    "~/wur_Rome2FAO/forestChangeModels.R"
 or
 
-    ~/wur_Rome2FAO/Peru_small_scale_disturbances2.R
+    "~/wur_Rome2FAO/Peru_small_scale_disturbances2.R"
