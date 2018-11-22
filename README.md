@@ -19,3 +19,5 @@ Go to RStudio and open
 or
 
     "~/wur_Rome2FAO/Peru_small_scale_disturbances2.R"
+
+Tip: You can copy-paste the paths in RStudio and double-click on them. The file will open in RStudio
