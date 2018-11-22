@@ -5,6 +5,8 @@
     install.packages("MASS")
     install.packages("ggplot2")
     install.packages("reshape2")
+    install.packages("randomForest")
+    install.packages("raster")
 
 ## Downloading the data ####
 
