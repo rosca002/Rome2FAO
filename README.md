@@ -2,7 +2,7 @@
 
 ## Install necessary packages
 
-    install.packages("MASS","ggplot2","reshape2","randomForest","raster")
+    install.packages(c("MASS","ggplot2","reshape2","randomForest","raster"))
 
 ## Download the data ####
 
