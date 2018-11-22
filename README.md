@@ -8,7 +8,7 @@
     install.packages("randomForest")
     install.packages("raster")
 
-## Downloading the data ####
+## Download the data ####
 
     workshop_folder <- "~"
     if(!file.exists(file.path(workshop_folder,"wur_Rome2FAO.zip"))){
